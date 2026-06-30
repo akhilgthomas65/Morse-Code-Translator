@@ -1,4 +1,4 @@
-# Morse-Code-Translator
+# Morse Code Translator
 
 A Python application that translates English text into Morse code and Morse code back into readable text. This project was developed as part of a Python programming course to strengthen core programming concepts such as dictionaries, functions, loops, and string manipulation.
 
@@ -38,10 +38,8 @@ cd Morse-Code-Translator
 Run the program:
 
 ```bash
-python morse_code_translator.py
+python Morse_Code_Translator.py
 ```
-
-> **Note:** If your Python file has a different name, replace `morse_code_translator.py` with the correct filename.
 
 ## Example
 
